@@ -9,6 +9,6 @@ Pre-funding prototype.
 [PRIVACY.md](./PRIVACY.md)
 
 ## Proposal  
-[NLnet Submission.md](./docs/nlnet-proposal) TBD
+[NLnet-Submission.md](./docs/nlnet-proposal) TBD
 
 License: MIT
