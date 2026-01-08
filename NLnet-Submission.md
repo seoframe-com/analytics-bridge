@@ -1,10 +1,10 @@
 # NLnet Grant Proposal: Analytics Bridge for EU Labour Mobility
 
 ## Abstract
-Analytics Bridge is a FOSS privacy-first platform tracking citizen success in EU labour mobility without cookies—measuring CTR on social security coordination, cross-border rights, and health portability info. Enables ELA/national admins to optimize UX for real movers. [file:1]
+Analytics Bridge is a FOSS privacy-first platform tracking citizen success in EU labour mobility without cookies—measuring CTR on social security coordination, cross-border rights, and health portability info. Enables ELA/national admins to optimize UX for real movers. 
 
 ## Problem & NGI Alignment
-EU citizens face fragmented labour mobility info; admins lack privacy-preserving analytics to prove impact. Analytics Bridge delivers permissionless, open metrics for NGI0/NGI Trust goals: trustworthy, user-centric internet [web:4].
+EU citizens face fragmented labour mobility info; admins lack privacy-preserving analytics to prove impact. Analytics Bridge delivers permissionless, open metrics for NGI0/NGI Trust goals: trustworthy, user-centric internet.
 
 ## Expected Outcomes
 - Zero-cookie CTR dashboard for EU labour portals
@@ -22,7 +22,7 @@ EU citizens face fragmented labour mobility info; admins lack privacy-preserving
 **Team:** Mariyani Group Ltd (Bulgaria-based LTD, SEO/R&D expertise)
 
 ## Budget Request
-€35,000: Developer time (6 months @ €5k/mo), hosting (€2k), tester networks (€3k). No other funding; self-bootstrapped prototype ready [web:5].
+€35,000: Developer time (6 months @ €5k/mo), hosting (€2k), tester networks (€3k). No other funding; self-bootstrapped prototype ready.
 
 ## European Dimension
 Supports ELA/EU-wide cross-border labour mobility use cases; scalable across all Member States (MS). Open to NGI Mobifree (EU cascade funding for mobility tech) and NGI Commons (open internet infra grants) mechanisms.
