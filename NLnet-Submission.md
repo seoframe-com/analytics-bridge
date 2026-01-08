@@ -25,4 +25,4 @@ EU citizens face fragmented labour mobility info; admins lack privacy-preserving
 €35,000: Developer time (6 months @ €5k/mo), hosting (€2k), tester networks (€3k). No other funding; self-bootstrapped prototype ready [web:5].
 
 ## European Dimension
-Supports ELA/EU-wide cross-border labour mobility use cases; scalable across all Member States (MS). Open to NGI Mobifree (EU cascade funding for mobility tech) and NGI Commons (open internet infra grants) mechanisms [file:1].
+Supports ELA/EU-wide cross-border labour mobility use cases; scalable across all Member States (MS). Open to NGI Mobifree (EU cascade funding for mobility tech) and NGI Commons (open internet infra grants) mechanisms.
