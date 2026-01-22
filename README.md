@@ -20,7 +20,10 @@ Current analytics models force a trade-off: **Ease of use vs. Privacy.** - **The
 
 ## Docs
 - [PRIVACY.md](./PRIVACY.md) - Our Zero-Knowledge commitment.
-- [NLnet-Submission.md](./docs/nlnet-proposal) - Technical R&D roadmap for 2026.
+- 
+## Proposal Status
+![Status: Drafting](https://img.shields.io/badge/Status-Drafting-yellow)
+The Technical R&D roadmap is currently under internal review for the NLnet/NGI submission.
 
 ## License
 Licensed under **GNU Affero General Public License v3.0 (AGPL-3.0)** - Protecting the Digital Commons.
