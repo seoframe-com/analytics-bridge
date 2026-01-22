@@ -1,14 +1,26 @@
-# Analytics Bridge
+# Analytics Bridge 🌉
 
-Privacy-first analytics router. Routes organic search data to Matomo, Plausible, FOSS backends. NGI0 Commons Fund proposal.
+**Privacy-first analytics router for the Next Generation Internet.**
+
+Analytics Bridge is a lightweight middleware that decouples data collection from data processing. It allows developers to route organic search and user interaction data directly to sovereign, FOSS backends (Matomo, Plausible, or custom PostgreSQL) without letting third-party trackers "sit in the middle."
+
+## Why Analytics Bridge?
+Current analytics models force a trade-off: **Ease of use vs. Privacy.** - **The Problem:** Proprietary analytics routers often leak metadata to North American ad-tech stacks.
+- **The Solution:** A sovereign, AGPL-v3 router that keeps data within the EU/FOSS ecosystem.
 
 ## Status
-Pre-funding prototype.
+- [x] Concept & Architectural Design
+- [ ] Pre-funding prototype (In Development)
+- [ ] NGI0 Commons Fund Submission (Deadline: Feb 1, 2026)
 
-## Privacy
-[PRIVACY.md](./PRIVACY.md)
+## Technical Vision
+- **Protocol Agnostic:** Ingests events via Webhooks, Server Logs, or lightweight JS signals.
+- **Sovereign Routing:** Directs data to self-hosted Matomo, Plausible, or local CSV/SQL storage.
+- **Privacy-by-Design:** Automated PII (Personally Identifiable Information) scrubbing at the router level.
 
-## Proposal  
-[NLnet-Submission.md](./docs/nlnet-proposal) TBD
+## Docs
+- [PRIVACY.md](./PRIVACY.md) - Our Zero-Knowledge commitment.
+- [NLnet-Submission.md](./docs/nlnet-proposal) - Technical R&D roadmap for 2026.
 
-License: GNU Affero General Public License v3.0 (AGPL-3.0)
+## License
+Licensed under **GNU Affero General Public License v3.0 (AGPL-3.0)** - Protecting the Digital Commons.
