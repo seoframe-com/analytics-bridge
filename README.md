@@ -20,7 +20,7 @@ Current analytics models force a trade-off: **Ease of use vs. Privacy.** - **The
 
 ## Docs
 - [PRIVACY.md](./PRIVACY.md) - Our Zero-Knowledge commitment.
-- 
+
 ## Proposal Status
 ![Status: Drafting](https://img.shields.io/badge/Status-Drafting-yellow)
 The Technical R&D roadmap is currently under internal review for the NLnet/NGI submission.
