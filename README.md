@@ -11,4 +11,4 @@ Pre-funding prototype.
 ## Proposal  
 [NLnet-Submission.md](./docs/nlnet-proposal) TBD
 
-License: MIT
+License: GNU Affero General Public License v3.0 (AGPL-3.0)
